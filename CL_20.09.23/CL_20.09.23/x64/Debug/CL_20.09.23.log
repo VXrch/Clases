@@ -1,4 +1,4 @@
 ﻿  Source.cpp
-C:\Users\dev\Desktop\New folder\C++\CL_20.09.23\CL_20.09.23\Source.cpp(118,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\dev\Desktop\New folder\C++\CL_20.09.23\CL_20.09.23\Source.cpp(120,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  CL_20.09.23.vcxproj -> C:\Users\dev\Desktop\New folder\C++\CL_20.09.23\x64\Debug\CL_20.09.23.exe
+C:\Users\User\Desktop\new\CL_20.09.23\CL_20.09.23\Source.cpp(182,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\Desktop\new\CL_20.09.23\CL_20.09.23\Source.cpp(184,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CL_20.09.23.vcxproj -> C:\Users\User\Desktop\new\CL_20.09.23\x64\Debug\CL_20.09.23.exe
