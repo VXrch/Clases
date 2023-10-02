@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\dev\Desktop\Projects\C++\Class_02.10.23\Source.cpp(121,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Source1.cpp
+C:\Users\dev\Desktop\Projects\C++\Class_02.10.23\Source1.cpp(146,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Source2.cpp
+C:\Users\dev\Desktop\Projects\C++\Class_02.10.23\Source2.cpp(108,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Source3.cpp
+C:\Users\dev\Desktop\Projects\C++\Class_02.10.23\Source3.cpp(113,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+Source1.obj : error LNK2005: "void __cdecl ReadLine(void)" (?ReadLine@@YAXXZ) already defined in Source.obj
+Source1.obj : error LNK2005: main already defined in Source.obj
+Source2.obj : error LNK2005: "void __cdecl ReadLine(void)" (?ReadLine@@YAXXZ) already defined in Source.obj
+Source2.obj : error LNK2005: main already defined in Source.obj
+Source3.obj : error LNK2005: main already defined in Source.obj
+C:\Users\dev\Desktop\Projects\C++\Class_02.10.23\x64\Debug\Class_02.10.23.exe : fatal error LNK1169: one or more multiply defined symbols found
